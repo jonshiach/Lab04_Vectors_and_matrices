@@ -1,6 +1,5 @@
-//  Lab04_Vectors_and_matrices
-
 #include <iostream>
+#include <cmath>
 
 // Include the glm library
 #define GLM_ENABLE_EXPERIMENTAL
